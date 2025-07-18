@@ -1,0 +1,20 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g transform="scale(0.25) translate(60,0)">
+    <defs>
+      <linearGradient id="vite1" x1="193.5" x2="193.5" y1="0" y2="193.5" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#41D1FF"/>
+        <stop offset="1" stop-color="#BD34FE"/>
+      </linearGradient>
+      <linearGradient id="vite2" x1="120" x2="120" y1="0" y2="120" gradientUnits="userSpaceOnUse">
+        <stop stop-color="#FFEA83"/>
+        <stop offset="0.083" stop-color="#FFDD35"/>
+        <stop offset="1" stop-color="#FFA800"/>
+      </linearGradient>
+    </defs>
+    <g>
+      <path d="M213.6 15.6c-1.2-3.6-4.8-5.6-8.4-4.8L24 48c-3.6 0.8-5.6 4.8-4.8 8.4l32 128c0.8 3.6 4.8 5.6 8.4 4.8l181.2-37.2c3.6-0.8 5.6-4.8 4.8-8.4l-32-128z" fill="url(#vite1)"/>
+      <path d="M96 0c-2.4 0-4.8 1.6-5.6 4l-32 128c-0.8 3.6 1.2 7.2 4.8 8.4l181.2 37.2c3.6 0.8 7.2-1.2 8.4-4.8l32-128c0.8-3.6-1.2-7.2-4.8-8.4L101.6 4c-0.8-0.4-1.6-0.4-2.4-0.4z" fill="url(#vite2)"/>
+      <path d="M120 48c-13.2 0-24 10.8-24 24s10.8 24 24 24 24-10.8 24-24-10.8-24-24-24zm0 40c-8.8 0-16-7.2-16-16s7.2-16 16-16 16 7.2 16 16-7.2 16-16 16z" fill="#fff"/>
+    </g>
+  </g>
+</svg> 
