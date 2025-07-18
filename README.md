@@ -1,8 +1,11 @@
 # vue3-ts-composition
 
-This template should help get you started developing with Vue 3 in Vite.
+## Decsription
+Реализовать страницу для управления учетными записями.
+ 
+ <img width="942" height="595" alt="Снимок экрана 2025-07-18 в 15 06 51" src="https://github.com/user-attachments/assets/3cc805b6-ee13-4dd4-92ec-fa59a2083752" />
 
-## Recommended IDE Setup
+ ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
@@ -37,3 +40,4 @@ npm run build
 ```sh
 npm run lint
 ```
+
